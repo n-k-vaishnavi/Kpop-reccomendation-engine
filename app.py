@@ -81,7 +81,6 @@ st.set_page_config(page_title="K-Pop Vibe Check", page_icon="💜")
 
 # 2. Add a title with your aesthetic
 st.title("💜 Welcome to the K-Pop Zone")
-st.header("Designed by a Future AI Engineer")
 
 # 3. Interactive Element
 
